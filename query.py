@@ -54,7 +54,7 @@ def call_llm_api(query):
     data = json.dumps(payload_dict)
     
     # Write the data to a temporary file
-    temp_file = "temp_payload.json"
+    temp_file = "C:\\Users\\mbharat\\Desktop\\rag\\temp_payload.json"
     with open(temp_file, "w") as f:
         f.write(data)
     
@@ -83,7 +83,7 @@ def parse_llm_response(result):
     return response_text
 
 
-def save_response(response_text, filename="customer_response.txt"):
+def save_response(response_text, filename="C:\\Users\\mbharat\\Desktop\\rag\\customer_response.txt"):
     """Save the response to a file."""
     with open(filename, "w", encoding="utf-8") as f:
         f.write(response_text)
