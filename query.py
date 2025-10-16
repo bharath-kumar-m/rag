@@ -84,7 +84,7 @@ def parse_llm_response(result):
     return response_text
 
 
-def save_response(response_text, filename="C:\\Users\\mbharat\\Desktop\\rag\\customer_response.txt"):
+def save_response(response_text, filename="customer_response.txt"):
     """Save the response to a file."""
     with open(filename, "w", encoding="utf-8") as f:
         f.write(response_text)
