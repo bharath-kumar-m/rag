@@ -1,0 +1,379 @@
+SPP Gen12 25.01.00.00 Release Notes
+Part Number: 30-8CCCAE22-001
+Published: January 2025
+Edition: 1
+SPP Gen12 25.01.00.00 Release Notes
+Abstract
+This document contains the fixes,enhancements and other information related to this version of SPP.
+Part Number: 30-8CCCAE22-001
+Published: January 2025
+Edition: 1
+© Copyright 2025– Hewlett Packard Enterprise Development LP
+Notices
+The information contained herein is subject to change without notice. The only warranties for Hewlett Packard Enterprise products and
+services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as
+constituting an additional warranty. Hewlett Packard Enterprise shall not be liable for technical or editorial errors or omissions contained
+herein.
+Confidential computer software. Valid license from Hewlett Packard Enterprise required for possession, use, or copying. Consistent with FAR
+12.211 and 12.212, Commercial Computer Software, Computer Software Documentation, and Technical Data for Commercial Items are
+licensed to the U.S. Government under vendor's standard commercial license.
+Links to third-party websites take you outside the Hewlett Packard Enterprise website. Hewlett Packard Enterprise has no control over and is
+not responsible for information outside the Hewlett Packard Enterprise website.
+Acknowledgments
+Adobe, the Adobe logo, Acrobat, and the Adobe PDF logo are either registered trademarks or trademarks of Adobe in the United States
+and/or other countries.
+AMD, the AMD Arrow symbol, ATI, and the ATI logo are trademarks of Advanced Micro Devices, Inc.
+Ampere®, Altra®, and the A®, and Ampere® logos are registered trademarks or trademarks of Ampere Computing.
+Arm® is a registered trademark of Arm Limited (or its subsidiaries) in the U.S. and/or elsewhere.
+Bluetooth is a trademark owned by its proprietor and used by Hewlett Packard Enterprise under license.
+DLTtape logo and SDLTtape logo are trademarks of Quantum Corporation in the U.S. and other countries.
+Docker and the Docker logo are trademarks or registered trademarks of Docker, Inc. in the United States and/or other countries.
+ENERGY STAR® and the ENERGY STAR® mark are registered U.S. marks.
+Google™ and the Google Logo are registered trademarks of Google LLC.
+Graphcore®, the Graphcore wordmark and Poplar® are registered trademarks of Graphcore Ltd.
+Intel Inside®, the Intel Inside logo, Intel®, the Intel logo, Itanium®, Itanium® 2-based, and Xeon® are trademarks of Intel Corporation in the U.S.
+and other countries.
+Linux® is the registered trademark of Linus Torvalds in the U.S. and other countries.
+McAfee® and the M-shield logo are trademarks or registered trademarks of McAfee, LLC or its subsidiaries in the United States and other
+countries.
+Microsoft® and Windows® are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other
+countries.
+MLCommons™, MLPerf™, and MLCube™ are trademarks and service marks of MLCommons Association in the United States and other
+countries.
+NVIDIA® and NVIDIA logos are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries.
+Oracle®, Java, and MySQL are registered trademarks of Oracle and/or its affiliates.
+Qualcomm® and the Qualcomm logo are trademarks of Qualcomm Incorporated, registered in the United States and other countries, used with
+permission.
+Red Hat® is a registered trademark of Red Hat, Inc. in the United States and other countries.
+SAP®, SAP HANA®, and SAP S/4HANA® are the trademarks or registered trademarks of SAP SE or its affiliates in Germany and in other
+countries.
+SAS®, the SAS® logo, EVAAS®, JMP®, the JMP® logo, IDeaS™, SAS/ACCESS®, SAS/ASSIST®, SAS/ETS®, SAS/FSP®, SAS/GRAPH®, SAS/IML®,
+SAS/OR®, SAS/QC®, SAS/SHARE®, THE POWER TO KNOW®, and VIYA® are registered trademarks or trademarks of SAS Institute, Inc.
+sFlow® is a registered trademark of InMon Corp.
+TOGAF® is a registered trademark of The Open Group. IT4IT™ is a trademark of The Open Group.
+UNIX® is a registered trademark of The Open Group.
+VMware®, VMware NSX®, VMware VCenter®, and VMware vSphere® are registered trademarks or trademarks of VMware, Inc. and its
+subsidiaries in the United States and other jurisdictions.
+X/Open® is a registered trademark, and the X device is a trademark of X/Open Company Ltd. in the UK and other countries.
+All third-party marks are property of their respective owners.
+Table of contents
+Release Notes
+Description
+Version
+Supersedes information
+Supported platforms
+Supported operating systems
+SPP documentation
+Enhancements
+New in this release
+Limitations
+Known limitations
+Download & Deployment
+Checksums
+SPP download page
+SPP custom download
+Customizing the SPP download
+SPP Custom Download Page
+Installation
+Deployment modes
+Installation instructions
+Deployment in online mode
+Deployment in offline mode
+Additional information
+Additional information for using the SPP on Linux operating systems
+Websites
+Support and other resources
+Accessing Hewlett Packard Enterprise Support
+HPE product registration
+Accessing updates
+Remote support
+Warranty information
+Regulatory information
+Documentation feedback
+Release Notes
+Subtopics
+Description
+Version
+Supersedes information
+Supported platforms
+Supported operating systems
+SPP documentation
+Enhancements
+New in this release
+Limitations
+Download & Deployment
+SPP download page
+SPP custom download
+Installation
+Additional information
+Description
+The Gen12 Service Pack for ProLiant (SPP) is a comprehensive system software and firmware update solution, which is delivered as a single
+ISO image. It uses the Smart Update Manager (SUM) as the deployment tool and is tested on all the HPE ProLiant Gen12 servers as defined
+in the Server Support Guide.
+Version
+2025.01.00.00
+Supersedes information
+2024.11.00.00
+Supported platforms
+This release supports the following Gen12 platforms based on Intel processors:
+HPE Cray XD230 Server
+HPE ProLiant DL380 a Gen12 server
+HPE ProLiant DL320 Gen12 SP Server
+HPE ProLiant DL340 Gen12 SP Server
+SPP Gen12 25.01.00.00 Release Notes 5
+Supported operating systems
+The system software and firmware support the following operating systems:
+Microsoft Windows Server 2025
+Microsoft Windows Server 2022
+Red Hat Enterprise Linux 9.4
+Red Hat Enterprise Linux 9.5
+SUSE Linux Enterprise Server 15 SP6
+NOTE
+Microsoft Windows Server 2025 and Microsoft Windows Server 2022 are supported only on HPE
+ProLiant DL380a Gen12 Server and HPE Cray XD230 Server.
+SPP documentation
+For a full list of SPP Documentation, see the Quick links section on the SPP Download Page.
+Documentation Description
+Release Notes Release notes for this SPP, containing important notes and known
+issues.
+Component Release Notes Release Notes for each component contained in this SPP, containing
+the Fixes, Enhancements, and important notes for each component
+contained in the SPP.
+Content Report List of software and firmware in this SPP with the file name and
+version.
+Server Support Guide List of software and firmware components applicable for each of the
+supported HPE ProLiant and Apollo servers.
+SPP OS Guide List of Operating Systems supported in each SPP. This document
+can be found under the Additional Resources tab of the TechLibrary
+page.
+Enhancements
+The 2025.01.00.00 Gen12 SPP Production release contains firmware, software, and driver components supporting the HPE ProLiant
+Gen12 server platforms and options.
+It contains the Smart Update Manager (SUM) 11.2.0 and the HPE Integrated Lights-Out (iLO) 6 1.66.
+For a complete list of components included in the SPP, see the Contents Report (contents.html) packaged in the ISO or view the report on
+the SPP TechLibrary page under Quick Links tab.
+SPP Gen12 25.01.00.00 Release Notes 6
+New in this release
+This release includes support for the following Gen12 platform:
+HPE Cray XD230 Server
+Limitations
+Subtopics
+Known limitations
+Known limitations
+Due to security issues, offline deployment through PXE server of Service Pack for ProLiant 2024.09.00.00 and later are not supported on
+Gen12 and Gen12 SP Server platforms.
+Download & Deployment
+The SPP can be downloaded from either the SPP Download page or the SPP Custom Download service. Both options require HPE Passport
+login and an active warranty or HPE support agreement.
+Subtopics
+Checksums
+Checksums
+To ensure integrity of the download, Hewlett Packard Enterprise recommends verifying the results with the following SHA-256 checksum
+values:
+1604118a7c4eea20fc5c72e93aceab1ac88ec51251b54d6355feda84a5a6d05d5 SPP2025010000.2025_0119.14.iso
+39256a389fcad7ba076d9c84d9e942c50ce2c63190380923ae9875a73b13443b Gen12SPP2025010000.2025_0119.14.iso.sha2sum
+SPP download page
+The new revamped TechLibrary SPP download page enables downloading through the HPE Support Center and contains the SPP specific
+information, including:
+Quick Links tab with the links to Release Notes, Component Release Notes, Content Report, and Server Support Guide for the selected
+SPP. SPP OS Guide can be found under the Additional Resources section.
+Resolved CA tab lists the resolved customer advisories for the selected SPP.
+SPP Gen12 25.01.00.00 Release Notes 7
+Open CA tab lists the resolved customer advisories for the selected SPP.
+SPP custom download
+SPP Custom Download provides an easy-to-use interface and assists reducing the size of the SPP by allowing filtering/customizing before
+downloading. Also, it offers convenient downloading of the SPP.
+The Gen12 SPP can be downloaded using an HPE Passport account, without the need for an active warranty or support agreement.
+Subtopics
+Customizing the SPP download
+SPP Custom Download Page
+Customizing the SPP download
+About this task
+Customizing the SPP download can be done using the following steps:
+Procedure
+1. Select the appropriate SPP.
+2. Click Create a new bundle tile (plus sign tile).
+3. Complete the Configure Your Bundle step with the applicable information of your choice and Click Next.
+4. Select the Filters button.
+To download only the supplements, deselect the SPP and ensure that only the required supplement are selected.
+5. Select filters as needed.
+No selection in any given category means everything in that category will be included.
+6. Click Build button and preview the selected components.
+7. Click Submit Build button.
+Upon submission of the build request, it will be queued and processed later.
+Results
+On the successful completion of the build, it will be notified through an email notification or Indicated on the new tile.
+SPP Custom Download Page
+SPP Gen12 25.01.00.00 Release Notes 8
+Installation
+There are two methods for using the Service Pack for ProLiant to update the ProLiant servers. The Smart Update Manager (SUM) tool is
+used to deploy the updates.
+There are different deployment modes:
+Online mode
+Offline mode
+These modes can be Local or Remote.
+Subtopics
+Deployment modes
+Deployment modes
+Online mode
+1. Local host update: It runs on a Linux hosted operating system.
+a. Interactive mode - Follow the onscreen steps to update the firmware components.
+To initiate deployment in the interactive mode, run the launch_sum.sh script which is found in the root of the .iso image.
+b. Automatic mode – The drivers, software, and firmware components will be updated without any user interaction.
+2. Remote Update: SUM runs on one system (running Windows or Linux operating system), but updates other physical nodes.
+a. Interactive mode - Follow the onscreen steps to update the firmware components.
+To initiate deployment in the interactive mode, run the launch_sum.bat (windows) or launch_sum.sh (Linux) script
+SPP Gen12 25.01.00.00 Release Notes 9
+which is found in the root of the .iso image through client.
+Offline mode
+Offline mode: The server is booted to the .iso image.
+1. Interactive mode - Follow the onscreen steps to update the firmware components.
+2. Automatic mode - Automatic mode will by default run the firmware update without any user interaction, after sitting for 10 seconds at
+the menu screen when an SPP .iso image is used to boot the server.
+Subtopics
+Installation instructions
+Deployment in online mode
+Deployment in offline mode
+Installation instructions
+About this task
+Steps to install the components from the SPP:
+Procedure
+1. Download the Gen12 SPP 2025.01.00.00 .iso file from the SPP download page.
+2. Determine the process to access the data on the ISO .
+as a mounted ISO
+3. Determine the process to initiate deployment to the targets, using the SPP.
+offline mode or online mode
+a. Online mode - It runs on a Linux hosted operating system.
+b. Offline mode - The Server boots from the SPP ISO (Bootable ISO only).
+Deployment can be performed in two ways.
+Automatic mode - The firmware components are updated without interaction.
+Interactive mode - Follow the onscreen instructions guide to update the firmware components
+4. Initiate the deployment.
+Deployment in online mode
+About this task
+To initiate the deployment in online mode:
+Procedure
+1. From the SPP folder, select
+a. For Linux: ./launch_sum
+2. To review the EULA, locate README.html which is found in the root of the ISO .
+SPP Gen12 25.01.00.00 Release Notes 10
+Deployment in offline mode
+About this task
+To initiate the deployment in offline mode:
+Procedure
+1. Boot the server to the SPP using one of the supported methods.
+Mounting the ISO or using a bootable USB key.
+2. Select either the Automatic or Interactive mode.
+a. If the Automatic mode is selected, then the firmware will be automatically updated on the server without any further interaction.
+b. If the Interactive mode is selected, follow the instructions on the screen.
+3. Select the Firmware Update option on the screen to start SUM.
+Additional information
+Subtopics
+Additional information for using the SPP on Linux operating systems
+Additional information for using the SPP on Linux operating systems
+See the following links for Technical Exception matrices for minimum OS support:
+Red Hat Enterprise Linux - Red Hat Support Matrix on HPE.com
+SUSE Linux Enterprise Server - SUSE Support Matrix on HPE.com
+The SPP contains Linux drivers, agent software, and firmware in a single ISO image. Alternatively, the Software Delivery Repository
+(SDR) contains software repositories that may be used with software configuration managers (Yum, or Zypper).
+For drivers and agent software, subscribe your system to the "spp-gen12" repository
+For firmware, subscribe your system to the "fwpp-gen12" repository
+Websites
+General websites
+Single Point of Connectivity Knowledge (SPOCK) Storage compatibility matrix
+https://www.hpe.com/storage/spock
+Technical papers and analyst reports
+https://www.hpe.com/us/en/resource-library
+For additional websites, see Support and other resources.
+SPP Gen12 25.01.00.00 Release Notes 11
+Support and other resources
+Subtopics
+Accessing Hewlett Packard Enterprise Support
+HPE product registration
+Accessing updates
+Remote support
+Warranty information
+Regulatory information
+Documentation feedback
+Accessing Hewlett Packard Enterprise Support
+For live assistance, go to the Contact Hewlett Packard Enterprise Worldwide website:
+https://www.hpe.com/info/assistance
+To access documentation and support services, go to the Hewlett Packard Enterprise Support Center website:
+https://www.hpe.com/support/hpesc
+Information to collect
+Technical support registration number (if applicable)
+Product name, model or version, and serial number
+Operating system name and version
+Firmware version
+Error messages
+Product-specific reports and logs
+Add-on products or components
+Third-party products or components
+HPE product registration
+To gain the full benefits of the Hewlett Packard Enterprise Support Center and your purchased support services, add your contracts and
+products to your account on the HPESC.
+When you add your contracts and products, you receive enhanced personalization, workspace alerts, insights through the dashboards,
+and easier management of your environment.
+You will also receive recommendations and tailored product knowledge to self-solve any issues, as well as streamlined case creation for
+faster time to resolution when you must create a case.
+To learn how to add your contracts and products, see https://www.hpe.com/info/add-products-contracts.
+SPP Gen12 25.01.00.00 Release Notes 12
+Accessing updates
+Some software products provide a mechanism for accessing software updates through the product interface. Review your product
+documentation to identify the recommended software update method.
+To download product updates:
+Hewlett Packard Enterprise Support Center
+https://www.hpe.com/support/hpesc
+Hewlett Packard Enterprise Support Center: Software downloads
+https://www.hpe.com/support/downloads
+My HPE Software Center
+https://www.hpe.com/software/hpesoftwarecenter
+To subscribe to eNewsletters and alerts:
+https://www.hpe.com/support/e-updates
+To view and update your entitlements, and to link your contracts and warranties with your profile, go to the Hewlett Packard Enterprise
+Support Center More Information on Access to Support Materials page:
+https://www.hpe.com/support/AccessToSupportMaterials
+IMPORTANT
+Access to some updates might require product entitlement when accessed through the Hewlett Packard
+Enterprise Support Center. You must have an HPE OnePass set up with relevant entitlements.
+Remote support
+Remote support is available with supported devices as part of your warranty or contractual support agreement. It provides intelligent event
+diagnosis, and automatic, secure submission of hardware event notifications to Hewlett Packard Enterprise, which initiates a fast and
+accurate resolution based on the service level of your product. Hewlett Packard Enterprise strongly recommends that you register your
+device for remote support.
+If your product includes additional remote support details, use search to locate that information.
+HPE Get Connected
+https://www.hpe.com/services/getconnected
+HPE Tech Care Service
+https://www.hpe.com/services/techcare
+HPE Complete Care Service
+https://www.hpe.com/services/completecare
+Warranty information
+To view the warranty information for your product, see the links provided below:
+HPE ProLiant and IA-32 Servers and Options
+SPP Gen12 25.01.00.00 Release Notes 13
+https://www.hpe.com/support/ProLiantServers-Warranties
+HPE Enterprise and Cloudline Servers
+https://www.hpe.com/support/EnterpriseServers-Warranties
+HPE Storage Products
+https://www.hpe.com/support/Storage-Warranties
+HPE Networking Products
+https://www.hpe.com/support/Networking-Warranties
+Regulatory information
+To view the regulatory information for your product, view the Safety and Compliance Information for Server, Storage, Power, Networking,
+and Rack Products, available at the Hewlett Packard Enterprise Support Center:
+https://www.hpe.com/support/Safety-Compliance-EnterpriseProducts
+Additional regulatory information
+Hewlett Packard Enterprise is committed to providing our customers with information about the chemical substances in our products as
+needed to comply with legal requirements such as REACH (Regulation EC No 1907/2006 of the European Parliament and the Council). A
+chemical information report for this product can be found at:
+https://www.hpe.com/info/reach
+For Hewlett Packard Enterprise product environmental and safety information and compliance data, including RoHS and REACH, see:
+https://www.hpe.com/info/ecodata
+For Hewlett Packard Enterprise environmental information, including company programs, product recycling, and energy efficiency, see:
+https://www.hpe.com/info/environment
+Documentation feedback
+Hewlett Packard Enterprise is committed to providing documentation that meets your needs. To help us improve the documentation, use
+the Feedback button and icons (at the bottom of an opened document) on the Hewlett Packard Enterprise Support Center portal
+(https://www.hpe.com/support/hpesc) to send any errors, suggestions, or comments. This process captures all document information.
+SPP Gen12 25.01.00.00 Release Notes 14
