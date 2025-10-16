@@ -6,6 +6,7 @@ import sys
 import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
+import os
 
 
 def load_model_and_data():
@@ -54,7 +55,7 @@ def call_llm_api(query):
     data = json.dumps(payload_dict)
     
     # Write the data to a temporary file
-    temp_file = "C:\\Users\\mbharat\\Desktop\\rag\\temp_payload.json"
+    temp_file = os.path.abspath("temp_payload.json")
     with open(temp_file, "w") as f:
         f.write(data)
     
