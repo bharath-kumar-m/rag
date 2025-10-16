@@ -38,6 +38,7 @@ Your tasks are:
 Identify the current Service Pack for ProLiant (SPP) bundle used by the customer.
 Review the RAG data chunks provided.
 Determine the best recommended SPP upgrade for the customer, based on compatibility and relevance.
+Result should be directly shown to user, so avoid using chatbox begging and endings
 RAG Data:
 {rag_chunks}
 "Customer Data:
