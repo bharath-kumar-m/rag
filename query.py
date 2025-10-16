@@ -49,6 +49,10 @@ payload_dict = {
     "prompt": query
 }
 data=json.dumps(payload_dict)
+# Write the data to a temporary file
+temp_file = "temp_payload.json"
+with open(temp_file, "w") as f:
+    f.write(data)
 print("Model query: ",data)
 command = f'curl -X POST --noproxy localhost -H "Content-Type: application/json" http://localhost:11435/api/generate -d @{temp_file}'
 # Execute the curl command
