@@ -60,8 +60,16 @@ command = f'curl -X POST --noproxy localhost -H "Content-Type: application/json"
 # Execute the curl command
 result = subprocess.run(command, shell=True, capture_output=True, text=True)
 
-# Print the output
+# Check if command succeeded
 if result.returncode == 0:
-    print("Response:", result.stdout)
+    # Get the response as a single string
+    response_text = result.stdout.replace("\n", " ").strip()
+    
+    # Save to a file
+    output_file = "customer_response.txt"
+    with open(output_file, "w", encoding="utf-8") as f:
+        f.write(response_text)
+    
+    print(f"Response saved to {output_file}")
 else:
     print("Error:", result.stderr)
