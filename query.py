@@ -33,12 +33,13 @@ D, I = index.search(query_vec.astype(np.float32), k)
 rag_chunks = "\n".join([chunks[idx] for idx in I[0]])
 
 query = f"""
-You are an assistant that analyzes customer server details and the retrieved RAG data (selected from support documentation).
-Your tasks are:
-Identify the current Service Pack for ProLiant (SPP) bundle used by the customer.
-Review the RAG data chunks provided.
-Determine the best recommended SPP upgrade for the customer, based on compatibility and relevance.
-Result should be directly shown to user, so avoid using chatbox begging and endings
+You are an assistant that analyzes customer server details. 
+Use ONLY the information provided in the RAG data internally to determine your answer, but do NOT mention the RAG data in your response. 
+Tasks:
+1. Identify the current Service Pack for ProLiant (SPP) bundle.
+2. Recommend the best SPP upgrade for the customer, if available.
+3. Provide the answer **directly and clearly**, as if you are giving instructions to the customer. 
+4. Do NOT invent or hallucinate information. If the required information is missing, respond with "Information not available."
 RAG Data:
 {rag_chunks}
 "Customer Data:
