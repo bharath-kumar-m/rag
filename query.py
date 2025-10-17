@@ -21,7 +21,7 @@ def load_model_and_data():
     
     return model, index, chunks
 
-def search_relevant_chunks(model, index, chunks, query_text, k=2):
+def search_relevant_chunks(model, index, chunks, query_text, k=5):
     """Search for relevant chunks using the query."""
     query_vec = model.encode([query_text], convert_to_numpy=True)
     D, I = index.search(query_vec.astype(np.float32), k)
@@ -32,13 +32,19 @@ def search_relevant_chunks(model, index, chunks, query_text, k=2):
 def create_query_prompt(rag_chunks, customer_query):
     """Create the query prompt for the LLM."""
     return f"""
-You are an assistant that analyzes customer server details. 
-Use ONLY the information provided in the RAG data internally to determine your answer, but do NOT mention the RAG data in your response. 
-Tasks:
-1. Identify the current Service Pack for ProLiant (SPP) bundle.
-2. Recommend the best SPP upgrade for the customer, if available.
-3. Provide the answer **directly and clearly**, as if you are giving instructions to the customer. 
-4. Do NOT invent or hallucinate information. If the required information is missing, respond with "Information not available."
+You are a system that analyzes customer server details.
+Your job is to generate a short, factual report for the customer.
+
+Rules:
+1. Use ONLY the information from the RAG data. Do NOT mention or refer to it in your output.
+2. Do NOT ask questions or include conversational language.
+3. Respond in a clear, formal, and instructional tone suitable for a customer-facing report.
+4. If any information is missing, write: "Information not available."
+5. Structure your answer as:
+
+Current SPP Bundle: <value or 'Information not available'>
+Recommended Upgrade: <value or 'Information not available'>
+Instruction: <short one-line advice or 'Information not available'>
 RAG Data:
 {rag_chunks}
 Customer Data:
