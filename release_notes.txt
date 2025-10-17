@@ -1,321 +1,417 @@
-
-=== VERSION: 2025.01.00.00 ===
---------------------------------------------------
-
-Entry 1:
-Enhancements: The Gen10/Gen10 Plus 2025.01.00.00 SPP Production release contains components supporting HPE ProLiant and Apollo Gen10 and Gen10 Plus server platforms and options. This SPP release contains Smart Update Manager (SUM) 11.2.0 and HPE Integrated Lights-Out (iLO) 5 version 3.10.    For a complete list of components included in the SPP, see the Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab.    
-Supported OS List: {"Microsoft Windows Server 2016","Microsoft Windows Server 2019","Microsoft Windows Server 2022","Microsoft Windows Server 2025","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 7.0","VMware ESXi 8.0"}
-Description: Gen10/Gen10 Plus Service Pack for ProLiant (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen10/Gen10 Plus servers as defined in the Service Pack for ProLiant Server Support Guide located on the SPP TechLibrary page.
-
-------------------------------
-
-Entry 2:
-Enhancements: The Gen11 2025.01.00.00 SPP Production release contains firmware, software and driver components supporting HPE ProLiant Gen11 server platforms and options. This SPP release contains Smart Update Manager (SUM) 11.2.0 and HPE Integrated Lights-Out (iLO) 6 version 1.66.    For a complete list of components included in the SPP, see the Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab.  
-Supported OS List: {"Microsoft Windows Server 2019","Microsoft Windows Server 2022","Microsoft Windows Server 2025","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 7.0","VMware ESXi 8.0"}
-Description: Gen11 Service Pack for ProLiant (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen11 servers as defined in the Service Pack for ProLiant Server Support Guide found at www.hpe.com/servers/spp/documentation.
-
-------------------------------
-
-Entry 3:
-Enhancements: The Gen12 2025.01.00.00 SPP Production release contains firmware, software and driver components supporting HPE ProLiant Gen12 server platforms and options. This SPP release contains Smart Update Manager (SUM) 11.2.0 and HPE Integrated Lights-Out (iLO) 6 version 1.66.    For a complete list of components included in the SPP, see the Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab. 
-Supported OS List: {"Microsoft Windows Server 2022","Microsoft Windows Server 2025","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15"}
-Description: Gen12 Service Pack for ProLiant (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen12 servers as defined in the Service Pack for ProLiant Server Support Guide found at www.hpe.com/servers/spp/documentation.
-
-------------------------------
-
-
-=== VERSION: 2025.08.00.00 ===
---------------------------------------------------
-
-Entry 1:
-Enhancements: NULL
-Supported OS List: NULL
-Description: NULL
-
-------------------------------
-
-
-=== VERSION: 2023.10.00.03 ===
---------------------------------------------------
-
-Entry 1:
-Enhancements: Patch bundle is an update over an already released SPP (Service Pack for ProLiant) including software, drivers and firmware components.
-Supported OS List: {"Microsoft Windows Server 2019","Microsoft Windows Server 2022","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 7.0","VMware ESXi 8.0"}
-Description: Patch bundle is an update over an already released SPP (Service Pack for ProLiant) including software, drivers and firmware components.
-
-------------------------------
-
-
-=== VERSION: 2023.10.00.00 ===
---------------------------------------------------
-
-Entry 1:
-Enhancements: Gen11 SPP 2023.10.00.00 includes support for the following OS Versions: Red Hat Enterprise Linux 8.8 Red Hat Enterprise Linux 9.2 SUSE Linux Enterprise Server 15 SP5  VMware ESXi 8.0 U2    
-Supported OS List: {"Microsoft Windows Server 2019","Microsoft Windows Server 2022","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 7.0","VMware ESXi 8.0"}
-Description: Gen11 Service Pack for ProLiant (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen11 servers as defined in the Service Pack for ProLiant Server Support Guide found at www.hpe.com/servers/spp/documentation.
-
-------------------------------
-
-
-=== VERSION: 2025.09.00.00 ===
---------------------------------------------------
-
-Entry 1:
-Enhancements: Service pack for HPE ProLiant Gen11 2025.09.00.00 release contains firmware, software and driver components supporting HPE ProLiant Gen11 server platforms and options. This SPP release contains Smart Update Manager (SUM) 12.3.0 and HPE Integrated Lights-Out (iLO) 6 version 1.70.    For a complete list of components included in the SPP, see the Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab.  
-Supported OS List: {"Azure Stack HCI 23H2","Microsoft Windows Server 2019","Microsoft Windows Server 2022","Microsoft Windows Server 2025","Red Hat Enterprise Linux 10","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","Ubuntu 22.04 LTS","Ubuntu 24.04 LTS","VMware ESXi 8.0","VMware ESXi 9.0"}
-Description: Service pack for HPE ProLiant Gen11 (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen11 servers as defined in the Service Pack for ProLiant Server Support Guide found at www.hpe.com/servers/spp/documentation.
-
-------------------------------
-
-Entry 2:
-Enhancements: Service pack for HPE ProLiant Gen12 version 2025.09.00.00 production release contains firmware, software and driver components supporting HPE ProLiant Gen12 server platforms (based on HPE Integrated Lights-Out 7 and 6) and options.   This release of Gen12 SPP includes Smart Update Manager (SUM) 12.3.0 along with HPE iLO7 version 1.17.00 and HPE iLO6 version 1.70.   For a complete list of the components included in the SPP, see Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab. 
-Supported OS List: {"Microsoft Windows Server 2022","Microsoft Windows Server 2025","Red Hat Enterprise Linux 10","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","Ubuntu 22.04 LTS","Ubuntu 24.04 LTS","VMware ESXi 8.0","VMware ESXi 9.0"}
-Description: Service pack for HPE ProLiant (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen12 servers as defined in the Service Pack for ProLiant Server Support Guide found at www.hpe.com/servers/spp/documentation.
-
-------------------------------
-
-Entry 3:
-Enhancements: Service pack for HPE ProLiant Gen10 and 10 Plus 2025.09.00.00 release contains components supporting HPE ProLiant and HPE Apollo Gen10 and Gen10 Plus server platforms and options. This SPP release contains Smart Update Manager (SUM) 12.3.0 and HPE Integrated Lights-Out (iLO) 5 version 3.15.   For a complete list of components included in the SPP, see the Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab.    
-Supported OS List: {"Azure Stack HCI 23H2","Microsoft Windows Server 2016","Microsoft Windows Server 2019","Microsoft Windows Server 2022","Microsoft Windows Server 2025","Red Hat Enterprise Linux 10","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","Ubuntu 22.04 LTS","Ubuntu 24.04 LTS","VMware ESXi 8.0","VMware ESXi 9.0"}
-Description: Service pack for HPE ProLiant Gen10 and 10 Plus (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen10/10 Plus servers as defined in the Service Pack for ProLiant Server Support Guide located on the SPP TechLibrary page.
-
-------------------------------
-
-
-=== VERSION: 2023.09.00.00 ===
---------------------------------------------------
-
-Entry 1:
-Enhancements: Gen10/Gen10 Plus SPP 2023.09.00.00 includes support for the following OS Versions: Red Hat Enterprise Linux 8.8 Red Hat Enterprise Linux 9.2 SUSE Linux Enterprise Server 15 SP5   
-Supported OS List: {"Microsoft Windows Server 2016","Microsoft Windows Server 2019","Microsoft Windows Server 2022","Red Hat Enterprise Linux 7 Server","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 12","SUSE Linux Enterprise Server 15","VMware ESXi 7.0","VMware ESXi 8.0"}
-Description: Gen10/Gen10 Plus Service Pack for ProLiant (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen10/Gen10 Plus servers as defined in the Service Pack for ProLiant Server Support Guide found at www.hpe.com/servers/spp/documentation.
-
-------------------------------
-
-
-=== VERSION: 2024.04.00.02 ===
---------------------------------------------------
-
-Entry 1:
-Enhancements: Patch bundle is an update over an already released Gen11 SPP (Service Pack for ProLiant) including software, drivers and firmware components.
-Supported OS List: {"Microsoft Windows Server 2019","Microsoft Windows Server 2022","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 7.0","VMware ESXi 8.0"}
-Description: Patch bundle is an update over an already released Gen11 SPP (Service Pack for ProLiant) including software, drivers and firmware components.
-
-------------------------------
-
-Entry 2:
-Enhancements: Patch bundle 2024.04.00.02 is an update over an already released Gen10 Gen10 Plus SPP (Service Pack for ProLiant) version 2024.04.00.00 including software, drivers and firmware components.
-Supported OS List: {"Microsoft Windows Server 2016","Microsoft Windows Server 2019","Microsoft Windows Server 2022","Red Hat Enterprise Linux 7 Server","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 12","SUSE Linux Enterprise Server 15","VMware ESXi 7.0","VMware ESXi 8.0"}
-Description: Patch bundle 2024.04.00.02 is an update over an already released Gen10 Gen10 Plus SPP (Service Pack for ProLiant) version 2024.04.00.00 including software, drivers and firmware components.
-
-------------------------------
-
-
-=== VERSION: 2025.05.00.00 ===
---------------------------------------------------
-
-Entry 1:
-Enhancements: Service pack for HPE ProLiant Gen10 and 10 Plus 2025.05.00.00 release contains components supporting HPE ProLiant and HPE Apollo Gen10 and Gen10 Plus server platforms and options. This SPP release contains Smart Update Manager (SUM) 12.1.0 and HPE Integrated Lights-Out (iLO) 5 version 3.13.   For a complete list of components included in the SPP, see the Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab.    
-Supported OS List: {"Azure Stack HCI 23H2","Microsoft Windows Server 2016","Microsoft Windows Server 2019","Microsoft Windows Server 2022","Microsoft Windows Server 2025","Red Hat Enterprise Linux 10","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 8.0","VMware ESXi 9.0"}
-Description: Service pack for HPE ProLiant Gen10 and 10 Plus (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen10/10 Plus servers as defined in the Service Pack for ProLiant Server Support Guide located on the SPP TechLibrary page.
-
-------------------------------
-
-Entry 2:
-Enhancements: Service pack for HPE ProLiant Gen12 version 2025.05.00.00 production release contains firmware, software and driver components supporting HPE ProLiant Gen12 server platforms (based on HPE Integrated Lights-Out 7 and 6) and options.   This release of Gen12 SPP includes Smart Update Manager (SUM) 12.1.0 along with HPE iLO7 version 1.14.00 and HPE iLO6 version 1.68.   For a complete list of the components included in the SPP, see Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab. 
-Supported OS List: {"Microsoft Windows Server 2022","Microsoft Windows Server 2025","Red Hat Enterprise Linux 10","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 8.0","VMware ESXi 9.0"}
-Description: Service pack for HPE ProLiant (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen12 servers as defined in the Service Pack for ProLiant Server Support Guide found at www.hpe.com/servers/spp/documentation.
-
-------------------------------
-
-Entry 3:
-Enhancements: Service pack for HPE ProLiant Gen11 2025.05.00.00 release contains firmware, software and driver components supporting HPE ProLiant Gen11 server platforms and options. This SPP release contains Smart Update Manager (SUM) 12.1.0 and HPE Integrated Lights-Out (iLO) 6 version 1.68.    For a complete list of components included in the SPP, see the Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab.  
-Supported OS List: {"Azure Stack HCI 23H2","Microsoft Windows Server 2019","Microsoft Windows Server 2022","Microsoft Windows Server 2025","Red Hat Enterprise Linux 10","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 8.0","VMware ESXi 9.0"}
-Description: Service pack for HPE ProLiant Gen11 (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen11 servers as defined in the Service Pack for ProLiant Server Support Guide found at www.hpe.com/servers/spp/documentation.
-
-------------------------------
-
-
-=== VERSION: 2024.04.00.00 ===
---------------------------------------------------
-
-Entry 1:
-Enhancements: Gen10/Gen10 Plus SPP 2024.04.00.00 includes support for the following OS versions: Red Hat Enterprise Linux 8.9 Red Hat Enterprise Linux 9.3  This version of the SPP no longer includes support for the following OS versions: Red Hat Enterprise Linux 7.9  SUSE Linux Enterprise Server 12 SP5    
-Supported OS List: {"Microsoft Windows Server 2016","Microsoft Windows Server 2019","Microsoft Windows Server 2022","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 7.0","VMware ESXi 8.0"}
-Description: Gen10/Gen10 Plus Service Pack for ProLiant (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen10/Gen10 Plus servers as defined in the Service Pack for ProLiant Server Support Guide found at www.hpe.com/servers/spp/documentation.
-
-------------------------------
-
-Entry 2:
-Enhancements: Gen11 SPP 2024.04.00.00 includes support for the following OS Versions: Red Hat Enterprise Linux 8.9 Red Hat Enterprise Linux 9.3    It also includes support for Alletra 4140 with Intel Emerald Rapids processor and Gen11 MicroServer platforms.   
-Supported OS List: {"Microsoft Windows Server 2019","Microsoft Windows Server 2022","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 7.0","VMware ESXi 8.0"}
-Description: Gen11 Service Pack for ProLiant (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen11 servers as defined in the Service Pack for ProLiant Server Support Guide found at www.hpe.com/servers/spp/documentation.
-
-------------------------------
-
-
-=== VERSION: 2025.03.00.00 ===
---------------------------------------------------
-
-Entry 1:
-Enhancements: Service pack for HPE ProLiant Gen11 release contains firmware, software and driver components supporting HPE ProLiant Gen11 server platforms and options. This release includes Smart Update Manager (SUM) 12.0.0 and HPE Integrated Lights-Out (iLO) 6 version 1.67.    For a complete list of components included in the SPP, see the Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab.  
-Supported OS List: {"Azure Stack HCI 23H2","Microsoft Windows Server 2019","Microsoft Windows Server 2022","Microsoft Windows Server 2025","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 8.0","VMware ESXi 9.0"}
-Description: Service pack for HPE ProLiant Gen11 (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen11 servers as defined in the Service Pack for ProLiant Server Support Guide found at www.hpe.com/servers/spp/documentation.
-
-------------------------------
-
-Entry 2:
-Enhancements: Service pack for HPE ProLiant Gen12 version 2025.03.00.00 production release contains firmware, software and driver components supporting HPE ProLiant Gen12 server platforms (based on HPE Integrated Lights-Out 7 and 6) and options.   This release of Gen12 service pack includes Smart Update Manager (SUM) 12.0.0 along with HPE iLO7 version 1.12.00 and HPE iLO6 version 1.67.   For a complete list of the components included in the SPP, see Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab. 
-Supported OS List: {"Microsoft Windows Server 2022","Microsoft Windows Server 2025","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 8.0","VMware ESXi 9.0"}
-Description: Service pack for HPE ProLiant (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen12 servers as defined in the Service Pack for ProLiant Server Support Guide found at www.hpe.com/servers/spp/documentation.
-
-------------------------------
-
-Entry 3:
-Enhancements: Service pack for HPE ProLiant Gen10 and 10 Plus release contains components supporting HPE ProLiant and HPE Apollo server platforms and options. This release includes Smart Update Manager (SUM) 12.0.0 and HPE Integrated Lights-Out (iLO) 5 version 3.11.   For a complete list of components included in the SPP, see the Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab.    
-Supported OS List: {"Azure Stack HCI 23H2","Microsoft Windows Server 2016","Microsoft Windows Server 2019","Microsoft Windows Server 2022","Microsoft Windows Server 2025","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 8.0","VMware ESXi 9.0"}
-Description: Service pack for HPE ProLiant Gen10 and 10 Plus (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen10/10+ servers as defined in the Service Pack for ProLiant Server Support Guide located on the SPP TechLibrary page.
-
-------------------------------
-
-
-=== VERSION: 2023.09.00.03 ===
---------------------------------------------------
-
-Entry 1:
-Enhancements: Patch bundle 2023.09.00.03 is an update over an already released SPP (Service Pack for ProLiant) version 2023.09.00.00 including software, drivers and firmware components.
-Supported OS List: {"Microsoft Windows Server 2016","Microsoft Windows Server 2019","Microsoft Windows Server 2022","Red Hat Enterprise Linux 7 Server","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 12","SUSE Linux Enterprise Server 15","VMware ESXi 7.0","VMware ESXi 8.0"}
-Description: Patch bundle 2023.09.00.03 is an update over an already released SPP (Service Pack for ProLiant) version 2023.09.00.00 including software, drivers and firmware components.
-
-------------------------------
-
-
-=== VERSION: 2025.07.00.00 ===
---------------------------------------------------
-
-Entry 1:
-Enhancements: Service pack for HPE ProLiant Gen11 2025.07.00.00 release contains firmware, software and driver components supporting HPE ProLiant Gen11 server platforms and options. This SPP release contains Smart Update Manager (SUM) 12.2.0 and HPE Integrated Lights-Out (iLO) 6 version 1.69.    For a complete list of components included in the SPP, see the Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab.  
-Supported OS List: {"Azure Stack HCI 23H2","Microsoft Windows Server 2019","Microsoft Windows Server 2022","Microsoft Windows Server 2025","Red Hat Enterprise Linux 10","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 8.0","VMware ESXi 9.0"}
-Description: Service pack for HPE ProLiant Gen11 (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen11 servers as defined in the Service Pack for ProLiant Server Support Guide found at www.hpe.com/servers/spp/documentation.
-
-------------------------------
-
-Entry 2:
-Enhancements: Service pack for HPE ProLiant Gen12 version 2025.07.00.00 production release contains firmware, software and driver components supporting HPE ProLiant Gen12 server platforms (based on HPE Integrated Lights-Out 7 and 6) and options.   This release of Gen12 SPP includes Smart Update Manager (SUM) 12.2.0 along with HPE iLO7 version 1.16.00 and HPE iLO6 version 1.69.   For a complete list of the components included in the SPP, see Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab. 
-Supported OS List: {"Microsoft Windows Server 2022","Microsoft Windows Server 2025","Red Hat Enterprise Linux 10","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 8.0","VMware ESXi 9.0"}
-Description: Service pack for HPE ProLiant (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen12 servers as defined in the Service Pack for ProLiant Server Support Guide found at www.hpe.com/servers/spp/documentation.
-
-------------------------------
-
-Entry 3:
-Enhancements: Service pack for HPE ProLiant Gen10 and 10 Plus 2025.07.00.00 release contains components supporting HPE ProLiant and HPE Apollo Gen10 and Gen10 Plus server platforms and options. This SPP release contains Smart Update Manager (SUM) 12.2.0 and HPE Integrated Lights-Out (iLO) 5 version 3.14.   For a complete list of components included in the SPP, see the Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab.    
-Supported OS List: {"Azure Stack HCI 23H2","Microsoft Windows Server 2016","Microsoft Windows Server 2019","Microsoft Windows Server 2022","Microsoft Windows Server 2025","Red Hat Enterprise Linux 10","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 8.0","VMware ESXi 9.0"}
-Description: Service pack for HPE ProLiant Gen10 and 10 Plus (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen10/10 Plus servers as defined in the Service Pack for ProLiant Server Support Guide located on the SPP TechLibrary page.
-
-------------------------------
-
-
-=== VERSION: 2024.09.00.00 ===
---------------------------------------------------
-
-Entry 1:
-Enhancements: The Gen12 2024.09.00.00 SPP Production release contains firmware, software and driver components supporting HPE ProLiant Gen12 server platforms and options. This SPP release contains Smart Update Manager (SUM) 11.0.0 and HPE Integrated Lights-Out (iLO) 6 version 1.63.    For a complete list of components included in the SPP, see the Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab. 
-Supported OS List: {"Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15"}
-Description: Gen12 Service Pack for ProLiant (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen12 servers as defined in the Service Pack for ProLiant Server Support Guide found at www.hpe.com/servers/spp/documentation.
-
-------------------------------
-
-Entry 2:
-Enhancements: The Gen10/Gen10 Plus 2024.09.00.00 SPP Production release contains components supporting HPE ProLiant and Apollo Gen10 and Gen10 Plus server platforms and options. This SPP release contains Smart Update Manager (SUM) 11.0.0 and HPE Integrated Lights-Out (iLO) 5 version 3.08.    For a complete list of components included in the SPP, see the Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab.    
-Supported OS List: {"Microsoft Windows Server 2016","Microsoft Windows Server 2019","Microsoft Windows Server 2022","Microsoft Windows Server 2025","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 7.0","VMware ESXi 8.0"}
-Description: Gen10/Gen10 Plus Service Pack for ProLiant (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen10/Gen10 Plus servers as defined in the Service Pack for ProLiant Server Support Guide located on the SPP TechLibrary page.
-
-------------------------------
-
-
-=== VERSION: 2024.11.00.00 ===
---------------------------------------------------
-
-Entry 1:
-Enhancements: The Gen10/Gen10 Plus 2024.11.00.00 SPP Production release contains components supporting HPE ProLiant and Apollo Gen10 and Gen10 Plus server platforms and options. This SPP release contains Smart Update Manager (SUM) 11.1.0 and HPE Integrated Lights-Out (iLO) 5 version 3.09.    For a complete list of components included in the SPP, see the Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab.    
-Supported OS List: {"Microsoft Windows Server 2016","Microsoft Windows Server 2019","Microsoft Windows Server 2022","Microsoft Windows Server 2025","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 7.0","VMware ESXi 8.0"}
-Description: Gen10/Gen10 Plus Service Pack for ProLiant (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen10/Gen10 Plus servers as defined in the Service Pack for ProLiant Server Support Guide located on the SPP TechLibrary page.
-
-------------------------------
-
-Entry 2:
-Enhancements: The Gen12 2024.11.00.00 SPP Production release contains firmware, software and driver components supporting HPE ProLiant Gen12 server platforms and options. This SPP release contains Smart Update Manager (SUM) 11.1.0 and HPE Integrated Lights-Out (iLO) 6 version 1.65.    For a complete list of components included in the SPP, see the Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab. 
-Supported OS List: {"Microsoft Windows Server 2022","Microsoft Windows Server 2025","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15"}
-Description: Gen12 Service Pack for ProLiant (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen12 servers as defined in the Service Pack for ProLiant Server Support Guide found at www.hpe.com/servers/spp/documentation.
-
-------------------------------
-
-Entry 3:
-Enhancements: The Gen11 2024.11.00.00 SPP Production release contains firmware, software and driver components supporting HPE ProLiant Gen11 server platforms and options. This SPP release contains Smart Update Manager (SUM) 11.1.0 and HPE Integrated Lights-Out (iLO) 6 version 1.65.    For a complete list of components included in the SPP, see the Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab.  
-Supported OS List: {"Microsoft Windows Server 2019","Microsoft Windows Server 2022","Microsoft Windows Server 2025","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 7.0","VMware ESXi 8.0"}
-Description: Gen11 Service Pack for ProLiant (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen11 servers as defined in the Service Pack for ProLiant Server Support Guide found at www.hpe.com/servers/spp/documentation.
-
-------------------------------
-
-
-=== VERSION: 2023.10.00.02 ===
---------------------------------------------------
-
-Entry 1:
-Enhancements: Patch bundle is an update over an already released SPP (Service Pack for ProLiant) including software, drivers and firmware components.
-Supported OS List: {"Microsoft Windows Server 2019","Microsoft Windows Server 2022","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 7.0","VMware ESXi 8.0"}
-Description: Patch bundle is an update over an already released SPP (Service Pack for ProLiant) including software, drivers and firmware components.
-
-------------------------------
-
-
-=== VERSION: 2024.09.01.00 ===
---------------------------------------------------
-
-Entry 1:
-Enhancements: The Gen11 2024.09.01.00 SPP Production release contains firmware, software and driver components supporting HPE ProLiant Gen11 server platforms and options. This SPP release contains Smart Update Manager (SUM) 11.0.0 and HPE Integrated Lights-Out (iLO) 6 version 1.63.    For a complete list of components included in the SPP, see the Contents Report (contents.html) packaged in the ISO or view the report on the https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx under the Quick Links tab.  
-Supported OS List: {"Microsoft Windows Server 2019","Microsoft Windows Server 2022","Microsoft Windows Server 2025","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 7.0","VMware ESXi 8.0"}
-Description: Gen11 Service Pack for ProLiant (SPP) is a comprehensive systems software and firmware update solution, which is delivered as a single ISO image. This solution uses Smart Update Manager (SUM) as the deployment tool and is tested on all HPE ProLiant Gen11 servers as defined in the Service Pack for ProLiant Server Support Guide found at www.hpe.com/servers/spp/documentation.
-
-------------------------------
-
-
-=== VERSION: 2023.09.00.05 ===
---------------------------------------------------
-
-Entry 1:
-Enhancements: Patch bundle 2023.09.00.05 is an update over an already released SPP (Service Pack for ProLiant) version 2023.09.00.00 including software, drivers and firmware components.
-Supported OS List: {"Microsoft Windows Server 2016","Microsoft Windows Server 2019","Microsoft Windows Server 2022","Red Hat Enterprise Linux 7 Server","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 12","SUSE Linux Enterprise Server 15","VMware ESXi 7.0","VMware ESXi 8.0"}
-Description: Patch bundle 2023.09.00.05 is an update over an already released SPP (Service Pack for ProLiant) version 2023.09.00.00 including software, drivers and firmware components.
-
-------------------------------
-
-
-=== VERSION: 2023.09.00.04 ===
---------------------------------------------------
-
-Entry 1:
-Enhancements: Patch bundle 2023.09.00.04 is an update over an already released SPP (Service Pack for ProLiant) version 2023.09.00.00 including software, drivers and firmware components.
-Supported OS List: {"Microsoft Windows Server 2016","Microsoft Windows Server 2019","Microsoft Windows Server 2022","Red Hat Enterprise Linux 7 Server","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 12","SUSE Linux Enterprise Server 15","VMware ESXi 7.0","VMware ESXi 8.0"}
-Description: Patch bundle 2023.09.00.04 is an update over an already released SPP (Service Pack for ProLiant) version 2023.09.00.00 including software, drivers and firmware components.
-
-------------------------------
-
-
-=== VERSION: 2024.04.00.01 ===
---------------------------------------------------
-
-Entry 1:
-Enhancements: Patch bundle 2024.04.00.01 is an update over an already released Gen10 Gen10 Plus SPP (Service Pack for ProLiant) version 2024.04.00.00 including software, drivers and firmware components.
-Supported OS List: {"Microsoft Windows Server 2016","Microsoft Windows Server 2019","Microsoft Windows Server 2022","Red Hat Enterprise Linux 7 Server","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 12","SUSE Linux Enterprise Server 15","VMware ESXi 7.0","VMware ESXi 8.0"}
-Description: Patch bundle 2024.04.00.01 is an update over an already released Gen10 Gen10 Plus SPP (Service Pack for ProLiant) version 2024.04.00.00 including software, drivers and firmware components.
-
-------------------------------
-
-Entry 2:
-Enhancements: Patch bundle is an update over an already released Gen11 SPP (Service Pack for ProLiant) including software, drivers and firmware components.
-Supported OS List: {"Microsoft Windows Server 2019","Microsoft Windows Server 2022","Red Hat Enterprise Linux 8 Server","Red Hat Enterprise Linux 9","SUSE Linux Enterprise Server 15","VMware ESXi 7.0","VMware ESXi 8.0"}
-Description: Patch bundle is an update over an already released Gen11 SPP (Service Pack for ProLiant) including software, drivers and firmware components.
-
-------------------------------
-
+1. Gen10 Service Pack for ProLiant Version 2025.01.00.00
+Release Summary
+The Gen10/Gen10 Plus 2025.01.00.00 SPP Production release contains components supporting HPE ProLiant and Apollo Gen10 and Gen10 Plus server platforms and options.
+This SPP release contains Smart Update Manager (SUM) 11.2.0 and HPE Integrated Lights-Out (iLO) 5 version 3.10. 
+Supported operating systems
+The system software and firmware support the following operating systems:
+Microsoft Windows Server 2025
+Microsoft Windows Server 2022
+Microsoft Windows Server 2019 - All editions
+Microsoft Windows Server 2016 - All editions
+Red Hat Enterprise Linux 9.4
+Red Hat Enterprise Linux 9.5
+Red Hat Enterprise Linux 8.9
+Red Hat Enterprise Linux 8.10
+SUSE Linux Enterprise Server 15 SP5
+SUSE Linux Enterprise Server 15 SP6
+VMware ESXi 7.0 U3
+VMware ESXi 8.0 U2
+VMware ESXi 8.0 U3
+Supported operating systems
+The system software and firmware support the following operating systems:
+Microsoft Windows Server 2025
+Microsoft Windows Server 2022
+Microsoft Windows Server 2019 - All editions
+Microsoft Windows Server 2016 - All editions
+Red Hat Enterprise Linux 9.4
+Red Hat Enterprise Linux 9.5
+Red Hat Enterprise Linux 8.9
+Red Hat Enterprise Linux 8.10
+SUSE Linux Enterprise Server 15 SP5
+SUSE Linux Enterprise Server 15 SP6
+VMware ESXi 7.0 U3
+VMware ESXi 8.0 U2
+VMware ESXi 8.0 U3
+Component prerequisites
+Prerequisite for the nfc-host-agent components:
+The following libraries which are part of the Operating System distro are to be installed for the successful installation of nfc- host-agent rpm.
+libhugetlbfs.so
+libuuid.so - libuuid-devel is the library which has to be installed. For SUSE Linux Enterprise Server 12 service pack 4 and SUSE Linux Enterprise Server 12 service pack 5, it is a part of the Software Development Kit (SDK).
+For the NFC agent to work properly, enable the following ports on the firewall:
+RDMA/4420
+tcp/3205
+udp/3206
+The nvme-clipackage is a part of this rpm and it may conflict with the preinstalled nvme-cli. Hence it is recommended to uninstall the default nvme-cli package before installing the rpm. Install the NVMe-Rdma drivers for NFC agents to work properly.
+Known limitations
+The following are a selected list of known issues and limitations related to the smart components and SUM version delivered with this SPP.
+
+For a complete list, see the SPP Download page, select the Open CAs and Resolve CAs tab. This procedure can be followed to choose the preferred SPP version listed under the Generation specific menu, to open its related version page.
+
+Integrated Lights-Out (iLO) Repository update for the components updateable by the Unified ExtensibleFirmware Interface (UEFI) do not install, if the Reboot Parameter in Smart Update Manager (SUM) is set to Never. See the Customer Advisory for more details.
+While performing iLO 5 update on Linux OS, the user may see multiple Windows firmware components listed for installation. It is an expected behavior.
+Drivers and enablement kits must be installed prior to the detecting and updating of some hardware and firmware. You may have to run SUM twice to ensure all the firmware components required for the installation are present.
+There are several scenarios when SUM is run twice. SUM requires the drivers to discover the hardware and firmware needed for installation. After the drivers are installed for the first time and the system is rebooted, SUM must be run again to ensure that all the firmware components for the installation are present.
+Network Adapters (NIC’s), Host Bus Adapters (HBA’s), and iLO require a driver or an enablement kit to be installed to be recognized by SUM.
+The Linux firmware component for Emulex Fiber Channel Adapters and the Linux firmware component for the Marvell Fiber Channel Adapters require the target environment to have the libHBAAPI package installed from the OS installation media.
+On the Emulex systems, install the Fibre Channel Enablement Kit for Emulex HBAs prior to the installation of the OneCommand Manager. If the OneCommand Manager is already installed on the system and the Enablement Kit is not installed, then uninstall the OneCommand Manager and install the Enablement Kit, and then install the OneCommand Manager again.
+When running SUM on Windows, if the iLO Channel Interface Driver is not installed, then the iLO firmware will show a version of None as the installed version and Ready for Installation as the status on the Select Bundle or the Select Component page. It applies to the firmware for iLO 4 and iLO 5. When attempting to update the firmware, it may fail to update if it is already up to date. Downgrade of iLO from 2017.10.0 to 2017.06.1 is not supported and will fail to update.
+When using SUM on Linux, the iLO Channel Interface Driver needs to be loaded from the operating system for the iLO firmware to display for installation.
+BroadcomNICs are not discovered by SUM unless the appropriate driver is installed, and all Ethernet ports are up. The Ethernet port can be brought up by using the following command: #ifupethx or #ifconfig ethx up.
+To update the firmware for Broadcom NIC, use the following steps:
+Install the appropriate Windows or Linux drivers found in the SPP.
+Enable all the Ethernet ports.
+Run the Broadcom FW upgrade component.
+Operating Systems support on the following HPE Converged Network Adapters is now frozen. There will be no Out-of- Box Drivers shipped or online Firmware flash components provided for these adapters for the following new Operating Systems starting from 2022.03.1 Service Pack for ProLiant. The only way to have the firmware updated in these Operating Systems is by launching the Service Pack for ProLiant in offline mode.
+HPE Converged Network Adapters:
+HPE CN1200E Dual Port Converged Network Adapter
+HPE CN1200E-T Dual Port Converged Network Adapter
+HPE FlexFabric 10Gb 2-port 556FLR-SFP+ Adapter
+HPE FlexFabric 10Gb 2-port 556FLR-T Adapter
+HPE FlexFabric 20Gb 2-port 650FLB Adapter
+HPE FlexFabric 20Gb 2-port 650M Adapter
+Operating Systems not limited to:
+Red Hat Enterprise Linux 8 Update 4 or later
+SUSE Linux Enterprise Server 15 Service Pack 3 or later
+Microsoft Windows Server 2022 or later
+VMware ESXi 7.0 or later
+UBM smart component firmware update is supported only in the case when the UBM devices are connected to SR100i controllers.
+Due to some security issues, offline deployment through PXE server of Service Pack for ProLiant 2023.03.00.02 and later is not supported on Gen10/Gen10 Plus, Gen11, Gen12, and Gen12 SP Server platforms
+
+2. Service Pack for HPE ProLiant Gen10/ Gen10 Plus SPP 2025.03.00.00 Release Notes
+Description
+The Service Pack for HPE ProLiant Gen10/Gen10 Plus (SPP) is a comprehensive system software and firmware update solution, which is delivered as a single ISO image. It uses the Smart Update Manager (SUM) as the deployment tool and is tested on all the HPE ProLiant Gen10 and Gen10 Plus servers as defined in the Server Support Guide.
+
+Starting from SPP 2021.10.1 onwards, two SPP s are being released. One for the Gen9 products and the other for Gen10/Gen10 Plus products. Entitlement verification is not required for the Service Pack for HPE ProLiant Gen10/Gen10 Plus versions, but it is still required for the Gen9 (2021.10.0) and Gen9 / Service Pack for HPE ProLiant Gen10/Gen10 Plus versions (2021.05.0 and earlier).
+Supersedes information
+2025.01.00.00
+Supported operating systems
+The system software and firmware support the following operating systems:
+Azure Stack HCI
+Microsoft Windows Server 2025
+Microsoft Windows Server 2022
+Microsoft Windows Server 2019 - All editions
+Microsoft Windows Server 2016 - All editions
+Red Hat Enterprise Linux 9.4
+Red Hat Enterprise Linux 9.5
+Red Hat Enterprise Linux 8.9
+Red Hat Enterprise Linux 8.10
+SUSE Linux Enterprise Server 15 SP5
+SUSE Linux Enterprise Server 15 SP6
+VMware ESXi 8.0 U2
+VMware ESXi 8.0 U3
+VMware ESXi 9.0
+Enhancements
+The Service Pack for HPE ProLiant Gen10/Gen10 Plus 2025.03.00.00 Production release contains components that support the HPE ProLiant and Apollo Gen10 and Gen10 Plus server platforms and options.
+This SPP release contains the Smart Update Manager (SUM) 12.0.0 and the HPE Integrated Lights-Out (iLO) 5 3.11.
+It includes support for the Azure Stack HCI OS.
+New in this release
+This release newly supports the following:
+Azure Stack HCI OS
+VMware ESXi 9.0
+Unsupported OS versions prior to this release
+The following are unsupported operating systems prior to this release:
+Red Hat Enterprise Linux 7.7
+Red Hat Enterprise Linux 7.8
+Red Hat Enterprise Linux 7.9
+Red Hat Enterprise Linux 8.1
+Red Hat Enterprise Linux 8.2
+Red Hat Enterprise Linux 8.3
+Red Hat Enterprise Linux 8.4
+Red Hat Enterprise Linux 8.5
+Red Hat Enterprise Linux 8.6
+Red Hat Enterprise Linux 8.7
+Red Hat Enterprise Linux 8.8
+Red Hat Enterprise Linux 9.0
+Red Hat Enterprise Linux 9.1
+Red Hat Enterprise Linux 9.2
+Red Hat Enterprise Linux 9.3
+SUSE Linux Enterprise Server 12 SP4
+SUSE Linux Enterprise Server 12 SP5
+SUSE Linux Enterprise Server 15 SP0
+SUSE Linux Enterprise Server 15 SP1
+SUSE Linux Enterprise Server 15 SP2
+SUSE Linux Enterprise Server 15 SP3
+SUSE Linux Enterprise Server 15 SP4
+VMware ESXi 6.7 U2
+VMware ESXi 6.7 U3
+VMware ESXi 7.0 U1
+VMware ESXi 7.0 U2
+VMware ESXi 8.0
+VMware ESXi 8.0 U1
+Windows Server 2012 R2
+Unsupported OS versions in this release
+VMware ESXi 7.0 U3
+Component prerequisites
+Prerequisite for the nfc-host-agent components:
+The following libraries which are part of the Operating System distro are to be installed for the successful installation of nfc- host-agent rpm.
+libhugetlbfs.so
+libuuid.so - libuuid-devel is the library which has to be installed. For SUSE Linux Enterprise Server 12 service pack 4 and SUSE Linux Enterprise Server 12 service pack 5, it is a part of the Software Development Kit (SDK).
+For the NFC agent to work properly, enable the following ports on the firewall:
+RDMA/4420
+tcp/3205
+udp/3206
+The nvme-clipackage is a part of this rpm and it may conflict with the preinstalled nvme-cli. Hence it is recommended to uninstall the default nvme-cli package before installing the rpm. Install the NVMe-Rdma drivers for NFC agents to work properly.
+Known limitations
+The following are a selected list of known issues and limitations related to the smart components and SUM version delivered with this SPP.
+For a complete list, see the SPP Download page, select the Open CAs and Resolve CAs tab. This procedure can be followed to choose the preferred SPP version listed under the Generation specific menu, to open its related version page.
+Integrated Lights-Out (iLO) Repository update for the components updateable by the Unified ExtensibleFirmware Interface (UEFI) do not install, if the Reboot Parameter in Smart Update Manager (SUM) is set to Never. See the Customer Advisory for more details.
+While performing iLO 5 update on Linux OS, the user may see multiple Windows firmware components listed for installation. It is an expected behavior.
+Drivers and enablement kits must be installed prior to the detecting and updating of some hardware and firmware. You may have to run SUM twice to ensure all the firmware components required for the installation are present.
+There are several scenarios when SUM is run twice. SUM requires the drivers to discover the hardware and firmware needed for installation. After the drivers are installed for the first time and the system is rebooted, SUM must be run again to ensure that all the firmware components for the installation are present.
+Network Adapters (NIC’s), Host Bus Adapters (HBA’s), and iLO require a driver or an enablement kit to be installed to be recognized by SUM.
+The Linux firmware component for Emulex Fiber Channel Adapters and the Linux firmware component for the Marvell Fiber Channel Adapters require the target environment to have the libHBAAPI package installed from the OS installation media.
+On the Emulex systems, install the Fibre Channel Enablement Kit for Emulex HBAs prior to the installation of the OneCommand Manager. If the OneCommand Manager is already installed on the system and the Enablement Kit is not installed, then uninstall the OneCommand Manager and install the Enablement Kit, and then install the OneCommand Manager again.
+When running SUM on Windows, if the iLO Channel Interface Driver is not installed, then the iLO firmware will show a version of None as the installed version and Ready for Installation as the status on the Select Bundle or the Select Component page. It applies to the firmware for iLO 4 and iLO 5. When attempting to update the firmware, it may fail to update if it is already up to date. Downgrade of iLO from 2017.10.0 to 2017.06.1 is not supported and will fail to update.
+When using SUM on Linux, the iLO Channel Interface Driver needs to be loaded from the operating system for the iLO firmware to display for installation.
+BroadcomNICs are not discovered by SUM unless the appropriate driver is installed, and all Ethernet ports are up. The Ethernet port can be brought up by using the following command: #ifupethx or #ifconfig ethx up.
+To update the firmware for Broadcom NIC, use the following steps:
+Install the appropriate Windows or Linux drivers found in the SPP.
+Enable all the Ethernet ports.
+Run the Broadcom FW upgrade component.
+Operating Systems support on the following HPE Converged Network Adapters is now frozen. There will be no Out-of- Box Drivers shipped or online Firmware flash components provided for these adapters for the following new Operating Systems starting from 2022.03.1 Service Pack for ProLiant. The only way to have the firmware updated in these Operating Systems is by launching the Service Pack for ProLiant in offline mode.
+HPE Converged Network Adapters:
+HPE CN1200E Dual Port Converged Network Adapter
+HPE CN1200E-T Dual Port Converged Network Adapter
+HPE FlexFabric 10Gb 2-port 556FLR-SFP+ Adapter
+HPE FlexFabric 10Gb 2-port 556FLR-T Adapter
+HPE FlexFabric 20Gb 2-port 650FLB Adapter
+HPE FlexFabric 20Gb 2-port 650M Adapter
+Operating Systems not limited to:
+Red Hat Enterprise Linux 8 Update 4 or later
+SUSE Linux Enterprise Server 15 Service Pack 3 or later
+Microsoft Windows Server 2022 or later
+VMware ESXi 7.0 or later
+UBM smart component firmware update is supported only in the case when the UBM devices are connected to SR100i controllers.
+Due to some security issues, offline deployment through PXE server of Service Pack for ProLiant 2023.03.00.02 and later is not supported on Gen10/Gen10 Plus, Gen11, Gen12, and Gen12 SP Server platforms.
+
+3.Service Pack for HPE ProLiant Gen10/ Gen10 Plus SPP 2025.07.00.00 Release Notes
+Description
+The Service Pack for HPE ProLiant Gen10/Gen10 Plus (SPP) is a comprehensive system software and firmware update solution, which is delivered as a single ISO image. It uses the Smart Update Manager (SUM) as the deployment tool and is tested on all the HPE ProLiant Gen10 and Gen10 Plus servers as defined in the Server Support Guide.
+Supersedes information
+2025.05.00.00
+Supported operating systems
+The system software and firmware support the following operating systems:
+Microsoft Windows Server 2025
+Microsoft Windows Server 2022
+Microsoft Windows Server 2019
+Microsoft Windows Server 2016
+Red Hat Enterprise Linux 10 Server
+Red Hat Enterprise Linux 9 Server
+SUSE Linux Enterprise Server 15
+VMware ESXi 9.0
+VMware ESXi 8.0
+Azure Stack HCI 23H2
+Supported platforms
+The following platforms are supported:
+HPE ProLiant DL580 Gen10 Server
+HPE ProLiant DL560 Gen10 Server
+HPE ProLiant DL385 Gen10 Plus Server
+HPE ProLiant DL385 Gen10 Server
+HPE ProLiant DL380 Gen10 Plus Server
+HPE ProLiant DL380 Gen10 Server
+HPE ProLiant DL365 Gen10 Plus Server
+HPE ProLiant DL360 Gen10 Plus Server
+HPE ProLiant DL360 Gen10 Server
+HPE ProLiant DL345 Gen10 Plus Server
+HPE ProLiant DL325 Gen10 Plus v2 Server
+HPE ProLiant DL325 Gen10 Plus Server
+HPE ProLiant DL325 Gen10 Server
+HPE ProLiant DL180 Gen10 Server
+HPE ProLiant DL160 Gen10 Server
+HPE ProLiant DL20 Gen10 Server
+HPE ProLiant ML350 Gen10 Server
+HPE ProLiant ML110 Gen10 Server
+HPE ProLiant ML30 Gen10 Server
+HPE ProLiant XL675d Gen10 Plus Server
+HPE ProLiant XL645d Gen10 Plus Servers
+HPE ProLiant XL450 Gen10 Server
+HPE ProLiant XL290n Gen10 Plus Server
+HPE Proliant XL270d Gen10 Server
+HPE ProLiant XL230k Gen10 Server
+HPE ProLiant XL225n Gen10 Plus Server
+HPE ProLiant XL220n Gen10 Plus Server
+HPE ProLiant XL190r Gen10 Server
+HPE ProLiant XL170r Gen10 Server
+HPE ProLiant MicroServer Gen10 Plus Server
+HPE Apollo 4200 Gen10 Plus Server
+HPE Apollo 4200 Gen10 Server
+HPE ProLiant DL385 Gen10 Plus v2 Server
+HPE ProLiant DL110 Gen10 Plus Telco Server
+HPE ProLiant ML30 Gen10 Plus Server
+HPE ProLiant DL20 Gen10 Plus Server
+HPE ProLiant MicroServer Gen10 Plus v2
+Enhancements
+The Service Pack for HPE ProLiant Gen10/Gen10 Plus 2025.07.00.00 Production release contains components that support the HPE ProLiant and Apollo Gen10 and Gen10 Plus server platforms and options.
+This SPP release contains the Smart Update Manager (SUM) 12.2.0 and the HPE Integrated Lights-Out (iLO) 5 3.14.
+It includes support for SUSE Enterprise Linux 15 SP7.
+New in this release
+This release newly supports SUSE Linux Enterprise Linux 15 SP7.
+Unsupported OS versions prior to this release
+The following are unsupported operating systems prior to this release:
+Red Hat Enterprise Linux 7.7
+Red Hat Enterprise Linux 7.8
+Red Hat Enterprise Linux 7.9
+Red Hat Enterprise Linux 8.1
+Red Hat Enterprise Linux 8.2
+Red Hat Enterprise Linux 8.3
+Red Hat Enterprise Linux 8.4
+Red Hat Enterprise Linux 8.5
+Red Hat Enterprise Linux 8.6
+Red Hat Enterprise Linux 8.7
+Red Hat Enterprise Linux 8.8
+Red Hat Enterprise Linux 9.0
+Red Hat Enterprise Linux 9.1
+Red Hat Enterprise Linux 9.2
+Red Hat Enterprise Linux 9.3
+SUSE Linux Enterprise Server 12 SP4
+SUSE Linux Enterprise Server 12 SP5
+SUSE Linux Enterprise Server 15 SP0
+SUSE Linux Enterprise Server 15 SP1
+SUSE Linux Enterprise Server 15 SP2
+SUSE Linux Enterprise Server 15 SP3
+SUSE Linux Enterprise Server 15 SP4
+VMware ESXi 6.7 U2
+VMware ESXi 6.7 U3
+VMware ESXi 7.0 U1
+VMware ESXi 7.0 U2
+VMware ESXi 7.0 U3
+VMware ESXi 8.0
+VMware ESXi 8.0 U1
+Windows Server 2012 R2
+Unsupported OS versions in this release
+SUSE Linux Enterprise Server 15 SP5
+Component prerequisites
+Prerequisite for the nfc-host-agent components:
+The following libraries which are part of the Operating System distro are to be installed for the successful installation of nfc- host-agent rpm.
+libhugetlbfs.so
+libuuid.so - libuuid-devel is the library which has to be installed. For SUSE Linux Enterprise Server 12 service pack 4 and SUSE Linux Enterprise Server 12 service pack 5, it is a part of the Software Development Kit (SDK).
+For the NFC agent to work properly, enable the following ports on the firewall:
+RDMA/4420
+tcp/3205
+udp/3206
+The nvme-clipackage is a part of this rpm and it may conflict with the preinstalled nvme-cli. Hence it is recommended to uninstall the default nvme-cli package before installing the rpm. Install the NVMe-Rdma drivers for NFC agents to work properly.
+4. Service Pack for HPE ProLiant Gen10/ Gen10 Plus SPP 2025.09.00.00 Release Notes
+Description
+The Service Pack for HPE ProLiant Gen10/Gen10 Plus (SPP) is a comprehensive system software and firmware update solution, which is delivered as a single ISO image. It uses the Smart Update Manager (SUM) as the deployment tool and is tested on all the HPE ProLiant Gen10 and Gen10 Plus servers as defined in the Server Support Guide.
+Version
+2025.09.00.00
+Supersedes information
+2025.07.00.00
+Supported operating systems
+The system software and firmware support the following operating systems:
+Microsoft Windows Server 2025-All editions
+Microsoft Windows Server 2022- All editions
+Microsoft Windows Server 2019- All editions
+Microsoft Windows Server 2016- All editions
+Red Hat Enterprise Linux 10 Server
+Red Hat Enterprise Linux 9.6 Server
+Red Hat Enterprise Linux 9.5 Server
+SUSE Linux Enterprise Server 15 SP7
+SUSE Linux Enterprise Server 15 SP6
+Ubuntu 22.04 LTS
+Ubuntu 24.04 LTS
+VMware ESXi 9.0
+VMware ESXi 8.0 U3
+VMware ESXi 8.0 U2
+Azure Stack HCI 23H2
+Supported platforms
+The following platforms are supported:
+HPE ProLiant DL580 Gen10 Server
+HPE ProLiant DL560 Gen10 Server
+HPE ProLiant DL385 Gen10 Plus Server
+HPE ProLiant DL385 Gen10 Server
+HPE ProLiant DL380 Gen10 Plus Server
+HPE ProLiant DL380 Gen10 Server
+HPE ProLiant DL365 Gen10 Plus Server
+HPE ProLiant DL360 Gen10 Plus Server
+HPE ProLiant DL360 Gen10 Server
+HPE ProLiant DL345 Gen10 Plus Server
+HPE ProLiant DL325 Gen10 Plus v2 Server
+HPE ProLiant DL325 Gen10 Plus Server
+HPE ProLiant DL325 Gen10 Server
+HPE ProLiant DL180 Gen10 Server
+HPE ProLiant DL160 Gen10 Server
+HPE ProLiant DL20 Gen10 Server
+HPE ProLiant ML350 Gen10 Server
+HPE ProLiant ML110 Gen10 Server
+HPE ProLiant ML30 Gen10 Server
+HPE ProLiant XL675d Gen10 Plus Server
+HPE ProLiant XL645d Gen10 Plus Servers
+HPE ProLiant XL450 Gen10 Server
+HPE ProLiant XL290n Gen10 Plus Server
+HPE Proliant XL270d Gen10 Server
+HPE ProLiant XL230k Gen10 Server
+HPE ProLiant XL225n Gen10 Plus Server
+HPE ProLiant XL220n Gen10 Plus Server
+HPE ProLiant XL190r Gen10 Server
+HPE ProLiant XL170r Gen10 Server
+HPE ProLiant MicroServer Gen10 Plus Server
+HPE Apollo 4200 Gen10 Plus Server
+HPE Apollo 4200 Gen10 Server
+HPE ProLiant DL385 Gen10 Plus v2 Server
+HPE ProLiant DL110 Gen10 Plus Telco Server
+HPE ProLiant ML30 Gen10 Plus Server
+HPE ProLiant DL20 Gen10 Plus Server
+HPE ProLiant MicroServer Gen10 Plus v2
+Enhancements
+The Service Pack for HPE ProLiant Gen10/Gen10 Plus 2025.09.00.00 Production release contains components that support the HPE ProLiant and Apollo Gen10 and Gen10 Plus server platforms and options.
+This SPP release contains the Smart Update Manager (SUM) 12.3.0 and the HPE Integrated Lights-Out (iLO) 5 3.15.
+New in this release
+This release newly supports the following versions of Ubuntu operating systems:
+Ubuntu 22.04 LTS
+Ubuntu 24.04 LTS
+Unsupported OS versions prior to this release
+The following are unsupported operating systems prior to this release:
+Red Hat Enterprise Linux 7.7
+Red Hat Enterprise Linux 7.8
+Red Hat Enterprise Linux 7.9
+Red Hat Enterprise Linux 8.1
+Red Hat Enterprise Linux 8.2
+Red Hat Enterprise Linux 8.3
+Red Hat Enterprise Linux 8.4
+Red Hat Enterprise Linux 8.5
+Red Hat Enterprise Linux 8.6
+Red Hat Enterprise Linux 8.7
+Red Hat Enterprise Linux 8.8
+Red Hat Enterprise Linux 8.9
+Red Hat Enterprise Linux 8.10
+Red Hat Enterprise Linux 9.0
+Red Hat Enterprise Linux 9.1
+Red Hat Enterprise Linux 9.2
+Red Hat Enterprise Linux 9.3
+Red Hat Enterprise Linux 9.4
+SUSE Linux Enterprise Server 12 SP4
+SUSE Linux Enterprise Server 12 SP5
+SUSE Linux Enterprise Server 15 SP0
+SUSE Linux Enterprise Server 15 SP1
+SUSE Linux Enterprise Server 15 SP2
+SUSE Linux Enterprise Server 15 SP3
+SUSE Linux Enterprise Server 15 SP4
+SUSE Linux Enterprise Server 15 SP5
+VMware ESXi 6.7 U2
+VMware ESXi 6.7 U3
+VMware ESXi 7.0 U1
+VMware ESXi 7.0 U2
+VMware ESXi 7.0 U3
+VMware ESXi 8.0
+VMware ESXi 8.0 U1
+Windows Server 2012 R2
+PXE support
+PXE (Preboot Execution Environment) boot is supported on HPE ProLiant Gen10, Gen10 Plus, and Gen11 servers with Secure Boot mode disabled.
+NOTE
+PXE boot is not supported in Secure Boot environments.
+Using PXE boot in a non-secure mode introduces significant security risks. It is at the customer’s discretion to deploy components from the full SPP ISO over a network using PXE.
+It is recommended to:
+Isolate PXE traffic in a secure, segmented VLAN.
+Using authenticated and signed boot images (UEFI Secure Boot alternatives).
+Disable PXE after deployment is complete.
+Limit PXE server availability and access.
+Prerequisite for the nfc-host-agent components:
+The following libraries which are part of the Operating System distro are to be installed for the successful installation of nfc- host-agent rpm.
+libhugetlbfs.so
+libuuid.so - libuuid-devel is the library which has to be installed. For SUSE Linux Enterprise Server 12 service pack 4 and SUSE Linux Enterprise Server 12 service pack 5, it is a part of the Software Development Kit (SDK).
+For the NFC agent to work properly, enable the following ports on the firewall:
+RDMA/4420
+tcp/3205
+udp/3206
+The nvme-clipackage is a part of this rpm and it may conflict with the preinstalled nvme-cli. Hence it is recommended to uninstall the default nvme-cli package before installing the rpm. Install the NVMe-Rdma drivers for NFC agents to work properly.
