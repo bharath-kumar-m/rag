@@ -1,8 +1,56 @@
-Current SPP Bundle: 
-SPP 2025.05.00.00
-
-Recommended Upgrade: 
-Service Pack for HPE ProLiant Gen10/Gen10 Plus SPP 2025.09.00.00 Production release is recommended.
-
-Recommendation: 
-It is recommended to upgrade to the latest version of the Service Pack, as it includes support for Red Hat Enterprise Linux 7.7 and resolves the issue documented in advisory a00142315en_us.
+* Firmware Update Essentials for Gen10/Gen10 Plus Using HPE iLO
+* SPP Versions & Tools
+SPP 2025.09.00.00 ise the latest releases for Gen10/Gen10 Plus.
+Delivered as a single ISO image.
+Includes:
+Smart Update Manager (SUM) 11.2.0
+HPE iLO 5 firmware version 3.10
+* Supported Operating Systems
+These OS versions are compatible with the firmware and system software:
+Windows Server: 2025, 2022, 2019 (all editions), 2016 (all editions)
+Red Hat Enterprise Linux: 9.4, 9.5, 8.9, 8.10
+SUSE Linux Enterprise Server: 15 SP5, 15 SP6
+VMware ESXi: 7.0 U3, 8.0 U2, 8.0 U3
+* Component Prerequisites
+To ensure successful installation and update:
+Libraries for nfc-host-agent:
+libhugetlbfs.so
+libuuid.so (install libuuid-devel)
+Firewall ports to enable:
+RDMA/4420
+TCP/3205
+UDP/3206
+NVMe CLI conflict:
+Uninstall default nvme-cli before installing the SPP version.
+Install NVMe-RDMA drivers for NFC agents.
+* Known Limitations & Update Tips
+SUM Reboot Parameter: If set to "Never", UEFI-based component updates via iLO may fail.
+Linux iLO Update: May show Windows components—this is expected.
+Run SUM Twice: First run installs drivers; second run detects and updates firmware.
+Driver Requirements:
+NICs, HBAs, and iLO need drivers or enablement kits to be recognized by SUM.
+Emulex & Marvell FC Adapters:
+Require libHBAAPI from OS media.
+Emulex: Install Enablement Kit before OneCommand Manager.
+Windows SUM Behavior:
+Missing iLO Channel Interface Driver shows iLO firmware as "None".
+Firmware update may fail if already up to date.
+Linux SUM Behavior:
+iLO Channel Interface Driver must be loaded for firmware visibility.
+Broadcom NICs:
+Require drivers and active Ethernet ports (ifup ethx or ifconfig ethx up).
+Update steps:
+Install drivers from SPP.
+Enable Ethernet ports.
+Run Broadcom FW upgrade component.
+* Adapter & Deployment Limitations
+Frozen OS Support for CNAs (from SPP 2022.03.1 onward):
+No new drivers or online firmware updates for:
+CN1200E, CN1200E-T
+FlexFabric 556FLR-SFP+/T
+FlexFabric 650FLB/M
+Must use offline SPP deployment for updates.
+Offline PXE Deployment Blocked:
+PXE-based offline deployment not supported on Gen10/Gen10 Plus, Gen11, Gen12 servers from SPP 2023.03.00.02 onward.
+UBM Firmware Update:
+Only supported when UBM devices are connected to SR100i controllers.
