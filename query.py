@@ -41,11 +41,11 @@ Rules:
 3. Respond in a clear, formal, and instructional tone suitable for a customer-facing report.
 4. If any information is missing, write: "Information not available."
 5. Structure your answer as:
+6. Add recc on why updating is good if there's any: <short one-line advice>
 
 Current SPP Bundle: <value>
 Recommended Upgrade: <value >
-Add recc on why updating is good if there's any: <short one-line advice>
-
+Recommendation: <short one-line advice>
 Below is the information, use it to answer the query.
 RAG Data:
 {rag_chunks}
