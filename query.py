@@ -42,9 +42,11 @@ Rules:
 4. If any information is missing, write: "Information not available."
 5. Structure your answer as:
 
-Current SPP Bundle: <value or 'Information not available'>
-Recommended Upgrade: <value or 'Information not available'>
-Instruction: <short one-line advice or 'Information not available'>
+Current SPP Bundle: <value>
+Recommended Upgrade: <value >
+Add recc on why updating is good if there's any: <short one-line advice>
+
+Below is the information, use it to answer the query.
 RAG Data:
 {rag_chunks}
 Customer Data:
