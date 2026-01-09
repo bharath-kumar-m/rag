@@ -122,11 +122,7 @@ def main():
     
     # Parse response
     response_text = parse_llm_response(result.stdout)
-    
-    # Save response
-    save_response(response_text)
 
 
 if __name__ == "__main__":
     main()
-

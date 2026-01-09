@@ -11,7 +11,7 @@ with open("release_notes.txt", "r", encoding="utf-8") as f:
     text = f.read()
 
 # 3. Split text into chunks
-def chunk_text(text, chunk_size=1000):
+def chunk_text(text, chunk_size=500):
     words = text.split()
     for i in range(0, len(words), chunk_size):
         yield " ".join(words[i:i+chunk_size])
@@ -32,4 +32,4 @@ with open("chunks.pkl", "wb") as f:
     pickle.dump(chunks, f)
 
 # Optional: save model locally for offline server
-model.save("models/all-MiniLM-L6-v2")
+# model.save("models/all-MiniLM-L6-v2")
