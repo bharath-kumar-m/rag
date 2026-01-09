@@ -109,7 +109,8 @@ def prepare_context_for_llm(results: List[Dict]) -> str:
     context = "Relevant error information:\n\n"
     
     for i, result in enumerate(results, 1):
-        context += f"Result {i} (Relevance: {result['score']:.2f}):\n"
+        score = float(result['score'])  # Ensure it's a float
+        context += f"Result {i} (Relevance: {score:.2f}):\n"
         context += result['data']['enriched_doc']
         context += "\n\n---\n\n"
     
